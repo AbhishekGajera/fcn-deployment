@@ -1,2 +1,0 @@
-(window["webpackJsonppurple-react-free"]=window["webpackJsonppurple-react-free"]||[]).push([[22],{396:function(e,n,r){"use strict";r.r(n);var a=r(0),t=r.n(a);n.default=function(){return t.a.createElement("div",null,"Balance")}}}]);
-//# sourceMappingURL=22.ccaf4030.chunk.js.map

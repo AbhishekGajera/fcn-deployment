@@ -1,1 +1,0 @@
-{"version":3,"sources":["app/client-component/balance/Balance.js"],"names":["Balance"],"mappings":"mIAAA,2BAQeA,UANC,WACd,OACE","file":"static/js/22.ccaf4030.chunk.js","sourcesContent":["import React from 'react'\n\nconst Balance = () => {\n  return (\n    <div>Balance</div>\n  )\n}\n\nexport default Balance"],"sourceRoot":""}
