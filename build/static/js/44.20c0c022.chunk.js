@@ -1,0 +1,2 @@
+(this["webpackJsonppurple-react-free"]=this["webpackJsonppurple-react-free"]||[]).push([[44],{494:function(e,t,r){"use strict";r.r(t);var n=r(0),p=r.n(n);t.default=function(){return p.a.createElement("div",null,"EmployeeNotification")}}}]);
+//# sourceMappingURL=44.20c0c022.chunk.js.map

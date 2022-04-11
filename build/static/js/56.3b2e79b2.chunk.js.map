@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/Admin-components/Product/ProductFetch.js"],"names":["ProductFetch"],"mappings":"+HAAA,2BAQeA,UANM,WACnB,OACE","file":"static/js/56.3b2e79b2.chunk.js","sourcesContent":["import React from 'react'\n\nconst ProductFetch = () => {\n  return (\n    <div>ProductFetch</div>\n  )\n}\n\nexport default ProductFetch"],"sourceRoot":""}

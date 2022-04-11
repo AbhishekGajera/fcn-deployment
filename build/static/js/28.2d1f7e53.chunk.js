@@ -1,0 +1,2 @@
+(this["webpackJsonppurple-react-free"]=this["webpackJsonppurple-react-free"]||[]).push([[28],{475:function(e,r,t){"use strict";t.r(r);var n=t(0),u=t.n(n);r.default=function(){return u.a.createElement("div",null,"Mislenious")}}}]);
+//# sourceMappingURL=28.2d1f7e53.chunk.js.map
